@@ -14,12 +14,13 @@ import redux from "./assets/techstack/redux.png";
 import tailwind from "./assets/techstack/tailwind.png";
 import bootstrap from "./assets/techstack/bootstrap.png";
 import vscode from "./assets/techstack/vscode.png";
-import github from "./assets/techstack/CKA-ICO.png";
-import git from "./assets/techstack/CKA.png";
+import github from "./assets/techstack/github.png";
+import git from "./assets/techstack/git.png";
 import npm from "./assets/techstack/npm.png";
 import postman from "./assets/techstack/postman.png";
 import figma from "./assets/techstack/figma.png";
-// Porject Images
+import cka from "./assets/certs/cka.png";
+// Project Images
 import projectImage1 from "./assets/projects/project1.jpg";
 import projectImage2 from "./assets/projects/project2.jpg";
 import projectImage3 from "./assets/projects/project3.jpg";
@@ -108,6 +109,7 @@ export const techStackDetails = {
   git: git,
   github: github,
   figma: figma,
+  cka: cka,
 };
 
 // Enter your Project Details here
