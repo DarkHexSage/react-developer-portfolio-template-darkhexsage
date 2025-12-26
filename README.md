@@ -5,7 +5,7 @@
 
 <img src="/preview.gif" alt="preview" width="600px" />
 
-## Follow Below instructions to add your deatils in the portfolio.
+## Follow Below instructions to add your deatils in the portfolio..
 
 ### Change and customize every section according to your need, All you need to do is edit `/src/Details.js`
 
