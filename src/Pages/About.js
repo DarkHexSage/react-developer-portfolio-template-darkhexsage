@@ -27,7 +27,7 @@ function About() {
           ))
         )}
       </section>
-      <section>
+     {/*  <section>
         <h1 className="text-2xl pt-10 text-dark-heading dark:text-light-heading md:text-4xl xl:text-5xl xl:leading-tight font-bold">
           Education
         </h1>
@@ -42,7 +42,7 @@ function About() {
             />
           ))
         )}
-      </section>
+      </section> */}
     </main>
   );
 }
