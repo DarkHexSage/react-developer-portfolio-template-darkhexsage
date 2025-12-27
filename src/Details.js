@@ -19,7 +19,16 @@ import git from "./assets/techstack/git.png";
 import npm from "./assets/techstack/npm.png";
 import postman from "./assets/techstack/postman.png";
 import figma from "./assets/techstack/figma.png";
-import cka from "./assets/certs/CKA.png";
+// Cert stack images
+import cka from "./assets/certs/cka.png";
+import ckad from "./assets/certs/ckad.png";
+import cks from "./assets/certs/cks.png";
+import eccpt from "./assets/certs/eccpt.png";
+import ewptx from "./assets/certs/ewptx.png";
+import rhce from "./assets/certs/rhce.png";
+import ta003 from "./assets/certs/ta003.png";
+import ex280 from "./assets/certs/ex280.png";
+import lfcs from "./assets/certs/lfcs.png";
 // Project Images
 import projectImage1 from "./assets/projects/project1.jpg";
 import projectImage2 from "./assets/projects/project2.jpg";
