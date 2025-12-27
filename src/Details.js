@@ -46,13 +46,9 @@ export const logos = {
 // Enter your Personal Details here
 export const personalDetails = {
   name: "Adriano Aguilar",
-  tagline: "I love to learn new technologies and develop cool stuff.",
+  tagline: "I love to learn new technologies and develop cool secure stuff.",
   img: profile,
-  about: `Purple Team Specialist with experience in DevOps and
-  Cybersecurity. Passionate about open-source technologies and
-  automation. Skilled in containerization, orchestration, and
-  cloud computing. Committed to continuous learning and
-  professional growth.`,
+  about: `Purple Team Specialist with expertise in DevOps and Cybersecurity. Passionate about open-source technologies, infrastructure automation, and cloud-native security. Skilled in containerization (Docker, Kubernetes), orchestration, CI/CD pipeline security, infrastructure-as-code, and vulnerability management. Proficient in Python, Bash, YAML, and infrastructure tools like Jenkins, Prometheus, and Grafana. Committed to continuous learning, security best practices, and building secure, scalable systems across hybrid cloud environments.`,
 };
 
 // Enter your Social Media URLs here
@@ -162,58 +158,52 @@ export const techStackDetails = {
 // Enter your Project Details here
 export const projectDetails = [
   {
-    title: "Project title 1",
+    title: "Python Security Scanner",
     image: projectImage1,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
-    previewLink: "https://google.com",
-    githubLink: "https://github.com",
+    description: `Automated vulnerability scanner built in Python with concurrent scanning, reporting, and integration with CVSS scoring. Features API endpoint scanning, dependency analysis, and detailed HTML reports.`,
+    techstack: "Python, Requests, BeautifulSoup, SQLite",
+    previewLink: "https://github.com/darkhexsage/python-security-scanner",
+    githubLink: "https://github.com/darkhexsage/python-security-scanner",
   },
   {
-    title: "Project title 2",
+    title: "Kubernetes Security Hardening",
     image: projectImage2,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
-    previewLink: "https://google.com",
-    githubLink: "https://github.com",
+    description: `Comprehensive Kubernetes security implementation including RBAC, Network Policies, Pod Security Standards, and Security Context Constraints. Includes automation scripts and best practices documentation.`,
+    techstack: "Kubernetes, YAML, Bash, Helm",
+    previewLink: "https://github.com/darkhexsage/k8s-security",
+    githubLink: "https://github.com/darkhexsage/k8s-security",
   },
   {
-    title: "Project title 3",
+    title: "Docker Container Security",
     image: projectImage3,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
-    previewLink: "https://google.com",
-    githubLink: "https://github.com",
+    description: `Secure Docker setup with minimal base images, vulnerability scanning, and best practices implementation. Includes multi-stage builds, image signing, and runtime security controls.`,
+    techstack: "Docker, Container Structure Tests, Trivy, Bash",
+    previewLink: "https://github.com/darkhexsage/docker-security",
+    githubLink: "https://github.com/darkhexsage/docker-security",
   },
   {
-    title: "Project title 4",
+    title: "CI/CD Pipeline Security",
     image: projectImage4,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
-    previewLink: "https://google.com",
-    githubLink: "https://github.com",
+    description: `Automated CI/CD pipeline with security scanning, SAST/DAST integration, and secure secrets management. Jenkins-based infrastructure with GitOps principles and automated testing.`,
+    techstack: "Jenkins, GitOps, YAML, Python, Docker, Kubernetes",
+    previewLink: "https://github.com/darkhexsage/secure-cicd",
+    githubLink: "https://github.com/darkhexsage/secure-cicd",
   },
   {
-    title: "Project title 5",
+    title: "Infrastructure as Code",
     image: projectImage5,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
-    previewLink: "https://google.com",
-    githubLink: "https://github.com",
+    description: `Complete IaC implementation using Terraform and Ansible for multi-cloud deployments. Includes security hardening, monitoring setup, and disaster recovery configurations.`,
+    techstack: "Terraform, Ansible, Bash, YAML, AWS/Azure",
+    previewLink: "https://github.com/darkhexsage/iac-automation",
+    githubLink: "https://github.com/darkhexsage/iac-automation",
   },
   {
-    title: "Project title 6",
+    title: "Monitoring & Observability Stack",
     image: projectImage6,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
-    previewLink: "https://google.com",
-    githubLink: "https://github.com/darkhexsage",
+    description: `Comprehensive monitoring solution with Prometheus, Grafana, and ELK stack. Custom dashboards, alerting rules, and security event monitoring for cloud infrastructure.`,
+    techstack: "Prometheus, Grafana, ELK Stack, Docker, Python",
+    previewLink: "https://github.com/darkhexsage/monitoring-stack",
+    githubLink: "https://github.com/darkhexsage/monitoring-stack",
   },
 ];
 
