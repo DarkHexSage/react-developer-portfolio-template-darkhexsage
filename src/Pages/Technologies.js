@@ -3,6 +3,14 @@ import { techStackDetails } from "../Details";
 
 function Technologies() {
   const {
+    html,
+    css,
+    js,
+    react,
+    redux,
+    tailwind,
+    bootstrap,
+    sass,
     vscode,
     git,
     github,
@@ -30,15 +38,15 @@ function Technologies() {
         </p>
       </section>
       <section className="grid grid-cols-4 md:grid-cols-5 lg:grid-cols-6 items-center gap-10 pt-6">
-        <img src={cka} title="cka" alt="" />
-        <img src={cks} title="cks" alt="" />
-        <img src={ckad} title="ckad" alt="" />
-        <img src={eccpt} title="eccpt" alt="" />
-        <img src={ewptx} title="ewptx" alt="" />
-        <img src={rhce} title="rhce" alt="" />
-        <img src={ta003} title="ta003" alt="" />
-        <img src={ex280} title="ex280" alt="" />
-        <img src={lfcs} title="lfcs" alt="" />
+        <img src={cka} title="cka" alt="cka" />
+        <img src={cks} title="cks" alt="cks" />
+        <img src={ckad} title="ckad" alt="ckad" />
+        <img src={eccpt} title="eccpt" alt="eccpt" />
+        <img src={ewptx} title="ewptx" alt="ewptx" />
+        <img src={rhce} title="rhce" alt="rhce" />
+        <img src={ta003} title="ta003" alt="ta003" />
+        <img src={ex280} title="ex280" alt="ex280" />
+        <img src={lfcs} title="lfcs" alt="lfcs" />
       </section>
       <section>
         <h1 className="text-2xl pt-10 text-dark-heading dark:text-light-heading md:text-4xl xl:text-5xl xl:leading-tight font-bold">
