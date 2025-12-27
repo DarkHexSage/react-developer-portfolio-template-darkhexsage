@@ -119,6 +119,14 @@ export const techStackDetails = {
   github: github,
   figma: figma,
   cka: cka,
+  ckad: ckad,
+  cks: cks,
+  eccpt: eccpt,
+  ewptx: ewptx,
+  rhce: rhce,
+  ta003: ta003,
+  ex280: ex280,
+  lfcs: lfcs
 };
 
 // Enter your Project Details here
