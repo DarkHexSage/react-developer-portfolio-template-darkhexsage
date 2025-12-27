@@ -45,42 +45,79 @@ export const logos = {
 
 // Enter your Personal Details here
 export const personalDetails = {
-  name: "Pavan MG",
-  tagline: "I build things for web",
+  name: "Adriano Aguilar",
+  tagline: "I love to learn new technologies and develop cool stuff.",
   img: profile,
-  about: `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.`,
+  about: `Purple Team Specialist with experience in DevOps and
+  Cybersecurity. Passionate about open-source technologies and
+  automation. Skilled in containerization, orchestration, and
+  cloud computing. Committed to continuous learning and
+  professional growth.`,
 };
 
 // Enter your Social Media URLs here
 export const socialMediaUrl = {
-  linkdein: "https://www.linkedin.com/",
-  github: "https://www.github.com/",
-  twitter: "https://twitter.com/",
-  instagram: "https://www.instagram.com/",
+  linkdein: "https://www.linkedin.com/in/adriano-aguilar-245008101/",
+  github: "https://github.com/DarkHexSage",
 };
 
 // Enter your Work Experience here
 export const workDetails = [
   {
-    Position: "Frontend Web Developer",
-    Company: `Company Name here`,
-    Location: "Bengaluru",
+    Position: "Security Engineer",
+    Company: `Acquia`,
+    Location: "Costa Rica",
     Type: "Full Time",
-    Duration: "Sep 2021 - Dec 2021",
+    Duration: "Jan 2025 - Current",
   },
   {
-    Position: "Internship",
-    Company: `Company Name here`,
-    Location: "Bengaluru",
-    Type: "Internship",
-    Duration: "Sep 2021 - Dec 2021",
+    Position: "Senior Systems Engineer",
+    Company: `TD SYNNEX`,
+    Location: "Costa Rica",
+    Type: "Full Time",
+    Duration: "Nov 2023 - Dec 2024",
   },
   {
-    Position: "Internship",
-    Company: `Company Name here`,
-    Location: "Bengaluru",
-    Type: "Internship",
-    Duration: "Sep 2021 - Dec 2021",
+    Position: "Linux System Administrator",
+    Company: `Kyndryl`,
+    Location: "Costa Rica",
+    Type: "Full Time",
+    Duration: "May 2022 - Oct 2023",
+  },
+  {
+    Position: "WIndows Tier 3 Engineer",
+    Company: `DataGlove IT Solutions`,
+    Location: "Costa Rica",
+    Type: "Full Time",
+    Duration: "Feb 2021 - May 2022",
+  },
+  {
+    Position: "Azure Support Engineer",
+    Company: `Tek-Experts`,
+    Location: "Costa Rica",
+    Type: "Full Time",
+    Duration: "Jan 2020 - Mar 2021",
+  },    
+  {
+    Position: "Azure Support Engineer",
+    Company: `Tek-Experts`,
+    Location: "Costa Rica",
+    Type: "Full Time",
+    Duration: "Jan 2020 - Mar 2021",
+  },
+  {
+    Position: "Technical Support Engineer",
+    Company: `WNS`,
+    Location: "Costa Rica",
+    Type: "Full Time",
+    Duration: "March 2019 - Dec 2019",
+  },
+  {
+    Position: "IT Technician",
+    Company: `Ezugi`,
+    Location: "Costa Rica",
+    Type: "Full Time",
+    Duration: "Jan 2018 - Feb 2019",
   },
 ];
 
