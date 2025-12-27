@@ -99,13 +99,6 @@ export const workDetails = [
     Duration: "Jan 2020 - Mar 2021",
   },    
   {
-    Position: "Azure Support Engineer",
-    Company: `Tek-Experts`,
-    Location: "Costa Rica",
-    Type: "Full Time",
-    Duration: "Jan 2020 - Mar 2021",
-  },
-  {
     Position: "Technical Support Engineer",
     Company: `WNS`,
     Location: "Costa Rica",
@@ -120,7 +113,7 @@ export const workDetails = [
     Duration: "Jan 2018 - Feb 2019",
   },
 ];
-
+/* 
 // Enter your Education Details here
 export const eduDetails = [
   {
@@ -137,7 +130,7 @@ export const eduDetails = [
     Type: "Full Time",
     Duration: "Aug 2020 - Present",
   },
-];
+]; */
 
 // Tech Stack and Tools
 export const techStackDetails = {
