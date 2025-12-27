@@ -3,6 +3,14 @@ import { techStackDetails } from "../Details";
 
 function Technologies() {
   const {
+    html,
+    css,
+    js,
+    react,
+    redux,
+    tailwind,
+    bootstrap,
+    sass,
     vscode,
     git,
     github,
