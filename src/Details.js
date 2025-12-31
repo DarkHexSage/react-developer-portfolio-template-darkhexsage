@@ -30,12 +30,12 @@ import ta003 from "./assets/certs/ta003.png";
 import ex280 from "./assets/certs/ex280.png";
 import lfcs from "./assets/certs/lfcs.png";
 // Project Images
-import projectImage1 from "./assets/projects/project1.jpg";
-import projectImage2 from "./assets/projects/project2.jpg";
-import projectImage3 from "./assets/projects/project3.jpg";
-import projectImage4 from "./assets/projects/project4.jpg";
-import projectImage5 from "./assets/projects/project5.jpg";
-import projectImage6 from "./assets/projects/project6.jpg";
+import projectImage1 from "./assets/projects/project1.png";
+import projectImage2 from "./assets/projects/project2.png";
+import projectImage3 from "./assets/projects/project3.png";
+import projectImage4 from "./assets/projects/project4.png";
+import projectImage5 from "./assets/projects/project5.png";
+import projectImage6 from "./assets/projects/project6.png";
 
 // Logos
 export const logos = {
