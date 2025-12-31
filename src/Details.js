@@ -46,9 +46,9 @@ export const logos = {
 // Enter your Personal Details here
 export const personalDetails = {
   name: "Adriano Aguilar",
-  tagline: "I love to learn new technologies and develop cool secure stuff.",
+  tagline: "Building secure, scalable applications and infrastructure.",
   img: profile,
-  about: `Purple Team Specialist with expertise in DevOps and Cybersecurity. Passionate about open-source technologies, infrastructure automation, and cloud-native security. Skilled in containerization (Docker, Kubernetes), orchestration, CI/CD pipeline security, infrastructure-as-code, and vulnerability management. Proficient in Python, Bash, YAML, and infrastructure tools like Jenkins, Prometheus, and Grafana. Committed to continuous learning, security best practices, and building secure, scalable systems across hybrid cloud environments.`,
+  about: `Purple Team Security Engineer with 14+ certifications. Specialized in Kubernetes security, DevOps, and full-stack development. Expert in containerization (Docker, Kubernetes), CI/CD pipeline security, penetration testing, and infrastructure hardening. Proficient in Python, React, Bash, and tools like Jenkins, ArgoCD, and Prometheus. Committed to building secure, production-grade systems.`,
 };
 
 // Enter your Social Media URLs here
@@ -60,7 +60,7 @@ export const socialMediaUrl = {
 // Enter your Work Experience here
 export const workDetails = [
   {
-    Position: "Security Engineer",
+    Position: "Purple Team Security Engineer",
     Company: `Acquia`,
     Location: "Costa Rica",
     Type: "Full Time",
@@ -81,7 +81,7 @@ export const workDetails = [
     Duration: "May 2022 - Oct 2023",
   },
   {
-    Position: "WIndows Tier 3 Engineer",
+    Position: "Windows Tier 3 Engineer",
     Company: `DataGlove IT Solutions`,
     Location: "Costa Rica",
     Type: "Full Time",
@@ -109,24 +109,6 @@ export const workDetails = [
     Duration: "Jan 2018 - Feb 2019",
   },
 ];
-/* 
-// Enter your Education Details here
-export const eduDetails = [
-  {
-    Position: "Frontend Development",
-    Company: "Udemy, YouTube, Google, Medium",
-    Location: "Online",
-    Type: "Full Time",
-    Duration: "Jan 2022 - Present",
-  },
-  {
-    Position: "Bachelor in Electronics & Communication",
-    Company: `Your College Name here`,
-    Location: "Bengaluru",
-    Type: "Full Time",
-    Duration: "Aug 2020 - Present",
-  },
-]; */
 
 // Tech Stack and Tools
 export const techStackDetails = {
@@ -158,52 +140,52 @@ export const techStackDetails = {
 // Enter your Project Details here
 export const projectDetails = [
   {
-    title: "Python Security Scanner",
+    title: "Trading Card Database",
     image: projectImage1,
-    description: `Automated vulnerability scanner built in Python with concurrent scanning, reporting, and integration with CVSS scoring. Features API endpoint scanning, dependency analysis, and detailed HTML reports.`,
-    techstack: "Python, Requests, BeautifulSoup, SQLite",
-    previewLink: "https://github.com/darkhexsage/python-security-scanner",
-    githubLink: "https://github.com/darkhexsage/python-security-scanner",
+    description: `Full-stack React + FastAPI application with 80MB SQLite database. Features real-time search, autocomplete, game filtering, and responsive design deployed via Docker, Nginx, and Caddy reverse proxy.`,
+    techstack: "React, FastAPI, SQLite, Docker, Kubernetes, Caddy",
+    previewLink: "https://adragportfolio.info.gf/tcg",
+    githubLink: "https://github.com/darkhexsage/tcg-database",
   },
   {
-    title: "Kubernetes Security Hardening",
+    title: "Password Security Checker",
     image: projectImage2,
-    description: `Comprehensive Kubernetes security implementation including RBAC, Network Policies, Pod Security Standards, and Security Context Constraints. Includes automation scripts and best practices documentation.`,
-    techstack: "Kubernetes, YAML, Bash, Helm",
-    previewLink: "https://github.com/darkhexsage/k8s-security",
-    githubLink: "https://github.com/darkhexsage/k8s-security",
+    description: `NIST 800-63B password strength validator. Analyzes entropy, checks against common patterns, and provides security recommendations for compliance-focused applications.`,
+    techstack: "React, Python, REST API, Security Best Practices",
+    previewLink: "https://adragportfolio.info.gf/password-checker",
+    githubLink: "https://github.com/darkhexsage/password-checker",
   },
   {
-    title: "Docker Container Security",
+    title: "Cryptocurrency Monitor",
     image: projectImage3,
-    description: `Secure Docker setup with minimal base images, vulnerability scanning, and best practices implementation. Includes multi-stage builds, image signing, and runtime security controls.`,
-    techstack: "Docker, Container Structure Tests, Trivy, Bash",
-    previewLink: "https://github.com/darkhexsage/docker-security",
-    githubLink: "https://github.com/darkhexsage/docker-security",
+    description: `Live crypto price dashboard with real-time tracking, portfolio analysis, and market alerts. WebSocket integration for instant updates with React frontend and async Python backend.`,
+    techstack: "React, Python FastAPI, WebSockets, Docker, Real-time Data",
+    previewLink: "https://adragportfolio.info.gf/crypto-monitor",
+    githubLink: "https://github.com/darkhexsage/crypto-monitor",
   },
   {
-    title: "CI/CD Pipeline Security",
+    title: "Website Security Scanner",
     image: projectImage4,
-    description: `Automated CI/CD pipeline with security scanning, SAST/DAST integration, and secure secrets management. Jenkins-based infrastructure with GitOps principles and automated testing.`,
-    techstack: "Jenkins, GitOps, YAML, Python, Docker, Kubernetes",
-    previewLink: "https://github.com/darkhexsage/secure-cicd",
-    githubLink: "https://github.com/darkhexsage/secure-cicd",
+    description: `Web application vulnerability scanner performing OWASP Top 10 assessments. SQL injection detection, XSS testing, CSRF validation, and security header analysis with detailed reporting.`,
+    techstack: "Python, Security Scanning, OWASP, API Integration",
+    previewLink: "https://github.com/darkhexsage/website-security-scanner",
+    githubLink: "https://github.com/darkhexsage/website-security-scanner",
   },
   {
-    title: "Infrastructure as Code",
+    title: "Container Security Scanner",
     image: projectImage5,
-    description: `Complete IaC implementation using Terraform and Ansible for multi-cloud deployments. Includes security hardening, monitoring setup, and disaster recovery configurations.`,
-    techstack: "Terraform, Ansible, Bash, YAML, AWS/Azure",
-    previewLink: "https://github.com/darkhexsage/iac-automation",
-    githubLink: "https://github.com/darkhexsage/iac-automation",
+    description: `Automated Docker/container vulnerability scanner with image analysis, Trivy integration, and security best practices validation. Identifies misconfigurations and vulnerable dependencies.`,
+    techstack: "Docker, Trivy, Python, Container Security, Bash",
+    previewLink: "https://github.com/darkhexsage/container-security-scanner",
+    githubLink: "https://github.com/darkhexsage/container-security-scanner",
   },
   {
-    title: "Monitoring & Observability Stack",
+    title: "CVE Tracker & Analysis",
     image: projectImage6,
-    description: `Comprehensive monitoring solution with Prometheus, Grafana, and ELK stack. Custom dashboards, alerting rules, and security event monitoring for cloud infrastructure.`,
-    techstack: "Prometheus, Grafana, ELK Stack, Docker, Python",
-    previewLink: "https://github.com/darkhexsage/monitoring-stack",
-    githubLink: "https://github.com/darkhexsage/monitoring-stack",
+    description: `Enterprise vulnerability tracking system with real-time CVE feed integration, severity scoring, affected software tracking, and automated patch recommendations for infrastructure teams.`,
+    techstack: "Python, Data Aggregation, API Integration, Alert System",
+    previewLink: "https://github.com/darkhexsage/cve-tracker",
+    githubLink: "https://github.com/darkhexsage/cve-tracker",
   },
 ];
 
