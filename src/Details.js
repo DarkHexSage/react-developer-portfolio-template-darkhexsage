@@ -2,7 +2,6 @@
 // Logo images
 import logogradient from "./assets/logo.svg";
 import logo from "./assets/logo2.svg";
-import twitter from "./assets/twitter.svg";
 // Profile Image
 import profile from "./assets/profile.jpg";
 // Tech stack images
