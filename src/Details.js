@@ -1,5 +1,5 @@
 import React from "react";
-import { techStackDetails } from "../Details";
+import { techStackDetails } from "./Details";
 
 function Technologies() {
   const {
