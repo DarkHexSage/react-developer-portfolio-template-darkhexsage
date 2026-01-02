@@ -47,7 +47,7 @@ function Technologies() {
           and knowledge in various domains.
         </p>
       </section>
-      <section className="grid grid-cols-4 md:grid-cols-5 lg:grid-cols-5 items-center gap-10 pt-6">
+      <section className="grid grid-cols-6 md:grid-cols-5 lg:grid-cols-5 items-center gap-10 pt-6">
         <img src={eccpt} title="eccpt" alt="eccpt" />
         <img src={ewptx} title="ewptx" alt="ewptx" />
         <img src={cka} title="cka" alt="cka" />
@@ -66,7 +66,7 @@ function Technologies() {
           Technologies I've been working with recently
         </p>
       </section>
-      <section className="grid grid-cols-4 md:grid-cols-5 lg:grid-cols-5 items-center gap-10 pt-6">
+      <section className="grid grid-cols-6 md:grid-cols-5 lg:grid-cols-5 items-center gap-10 pt-6">
         <img src={html} title="html" alt="" />
         <img src={css} title="CSS" alt="" />
         <img src={js} title="JavaScript" alt="" />
@@ -89,7 +89,7 @@ function Technologies() {
           Tools
         </h1>
       </section>
-      <section className="grid grid-cols-4 md:grid-cols-5 lg:grid-cols-5 items-center gap-10 pt-6">
+      <section className="grid grid-cols-6 md:grid-cols-5 lg:grid-cols-5 items-center gap-10 pt-6">
         <img src={vscode} title="Visual Studio Code" alt="" />
         <img src={git} title="Git" alt="Git" />
         <img src={github} title="Github" alt="Github" />
