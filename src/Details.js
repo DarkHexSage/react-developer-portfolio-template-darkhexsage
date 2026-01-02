@@ -46,7 +46,7 @@ function Technologies() {
           and knowledge in various domains.
         </p>
       </section>
-      <section className="grid grid-cols-6 md:grid-cols-5 lg:grid-cols-5 items-center gap-4 pt-6">
+      <section className="grid grid-cols-3 md:grid-cols-4 lg:grid-cols-5 items-center justify-items-center gap-6 pt-6">
         <img src={eccpt} title="eccpt" alt="eccpt" className="h-40 w-40 object-contain" />
         <img src={ewptx} title="ewptx" alt="ewptx" className="h-40 w-40 object-contain" />
         <img src={cka} title="cka" alt="cka" className="h-40 w-40 object-contain" />
@@ -65,7 +65,7 @@ function Technologies() {
           Technologies I've been working with recently
         </p>
       </section>
-      <section className="grid grid-cols-6 md:grid-cols-5 lg:grid-cols-5 items-center gap-4 pt-6">
+      <section className="grid grid-cols-3 md:grid-cols-4 lg:grid-cols-5 items-center justify-items-center gap-6 pt-6">
         <img src={html} title="html" alt="" className="h-32 w-32 object-contain" />
         <img src={css} title="CSS" alt="" className="h-32 w-32 object-contain" />
         <img src={js} title="JavaScript" alt="" className="h-32 w-32 object-contain" />
@@ -87,7 +87,7 @@ function Technologies() {
           Tools
         </h1>
       </section>
-      <section className="grid grid-cols-6 md:grid-cols-5 lg:grid-cols-5 items-center gap-4 pt-6">
+      <section className="grid grid-cols-3 md:grid-cols-4 lg:grid-cols-6 items-center justify-items-center gap-6 pt-6">
         <img src={vscode} title="Visual Studio Code" alt="" className="h-32 w-32 object-contain" />
         <img src={git} title="Git" alt="Git" className="h-32 w-32 object-contain" />
         <img src={github} title="Github" alt="Github" className="h-32 w-32 object-contain" />
