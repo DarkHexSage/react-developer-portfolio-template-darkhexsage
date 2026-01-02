@@ -11,7 +11,6 @@ import azure from "./assets/techstack/azure.png";
 import js from "./assets/techstack/js.png";
 import react from "./assets/techstack/react.png";
 import python from "./assets/techstack/python.png";
-import tailwind from "./assets/techstack/tailwind.png";
 import kali from "./assets/techstack/kali.png";
 import vscode from "./assets/techstack/vscode.png";
 import github from "./assets/techstack/github.png";
@@ -124,16 +123,11 @@ export const techStackDetails = {
   css: css,
   js: js,
   react: react,
-  redux: redux,
-  sass: sass,
-  tailwind: tailwind,
-  bootstrap: bootstrap,
   vscode: vscode,
   postman: postman,
   npm: npm,
   git: git,
   github: github,
-  figma: figma,
   cka: cka,
   ckad: ckad,
   cks: cks,
@@ -142,8 +136,8 @@ export const techStackDetails = {
   rhce: rhce,
   ta003: ta003,
   ex280: ex280,
-  lfcs: lfcs
-  ,k8s: k8s,
+  lfcs: lfcs,
+  k8s: k8s,
   linux: linux,
   jenkins: jenkins,
   docker: docker,
