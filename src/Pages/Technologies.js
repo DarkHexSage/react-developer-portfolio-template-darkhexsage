@@ -78,11 +78,11 @@ function Technologies() {
         <img src={k8s} title="Kubernetes" alt="" />
         <img src={linux} title="Linux" alt="" />
         <img src={jenkins} title="Jenkins" alt="" />
-        <img src={docker} title="Docker" alt="" />
         <img src={ansible} title="Ansible" alt="" />
         <img src={terraform} title="Terraform" alt="" />
         <img src={aws} title="AWS" alt="" />
         <img src={grafana} title="Grafana" alt="" />
+        <img src={docker} title="Docker" alt="" />
       </section>
       <section>
         <h1 className="text-2xl pt-10 text-dark-heading dark:text-light-heading md:text-4xl xl:text-5xl xl:leading-tight font-bold">
