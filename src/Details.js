@@ -140,19 +140,11 @@ export const techStackDetails = {
 // Enter your Project Details here
 export const projectDetails = [
   {
-    title: "Trading Card Database",
-    image: projectImage1,
-    description: `Full-stack React + FastAPI application with 80MB SQLite database. Real-time search, autocomplete, game filtering, responsive design deployed via Docker and Caddy reverse proxy.`,
-    techstack: "Python, React, SQLite, Docker, Kubernetes, Caddy",
-    previewLink: "https://adragportfolio.info.gf/tcg",
-    githubLink: "https://github.com/DarkHexSage/API-TCG",
-  },
-  {
     title: "API Tester Platform",
     image: projectImage2,
     description: `Comprehensive API testing tool for automated endpoint validation, security scanning, and performance analysis. Streamlined testing workflow for REST APIs and webhooks.`,
     techstack: "Shell, Bash, Python, API Testing, Automation",
-    previewLink: "https://github.com/DarkHexSage/api_tester_platform",
+    previewLink: "https://adragportfolio.info.gf/security-api",
     githubLink: "https://github.com/DarkHexSage/api_tester_platform",
   },
   {
@@ -168,7 +160,7 @@ export const projectDetails = [
     image: projectImage4,
     description: `Web application vulnerability scanner performing OWASP Top 10 assessments. SQL injection, XSS testing, CSRF validation, and security header analysis.`,
     techstack: "JavaScript, Python, Security Scanning, OWASP",
-    previewLink: "https://github.com/DarkHexSage/website_security_scanner",
+    previewLink: "https://adragportfolio.info.gf/security-scanner",
     githubLink: "https://github.com/DarkHexSage/website_security_scanner",
   },
   {
@@ -176,7 +168,7 @@ export const projectDetails = [
     image: projectImage5,
     description: `Automated Docker container vulnerability scanner. Image analysis, Trivy integration, and security best practices validation for containerized applications.`,
     techstack: "CSS, Docker, Container Security, Trivy, Python",
-    previewLink: "https://github.com/DarkHexSage/container-scanner",
+    previewLink: "https://adragportfolio.info.gf/container-scanner",
     githubLink: "https://github.com/DarkHexSage/container-scanner",
   },
   {
@@ -186,6 +178,14 @@ export const projectDetails = [
     techstack: "React, Python FastAPI, REST API, Security",
     previewLink: "https://adragportfolio.info.gf/password-checker",
     githubLink: "https://github.com/DarkHexSage/password-checker",
+  },
+  {
+    title: "Trading Card Database",
+    image: projectImage1,
+    description: `Full-stack React + FastAPI application with 80MB SQLite database. Real-time search, autocomplete, game filtering, responsive design deployed via Docker and Caddy reverse proxy.`,
+    techstack: "Python, React, SQLite, Docker, Kubernetes, Caddy",
+    previewLink: "https://adragportfolio.info.gf/tcg",
+    githubLink: "https://github.com/DarkHexSage/API-TCG",
   },
 ];
 
