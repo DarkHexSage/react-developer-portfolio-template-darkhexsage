@@ -8,7 +8,6 @@ function Technologies() {
     js,
     react,
     python,
-    tailwind,
     azure,
     prometheus,
     vscode,
@@ -72,7 +71,7 @@ function Technologies() {
         <img src={js} title="JavaScript" alt="" />
         <img src={react} title="React" alt="" />
         <img src={python} title="Python" alt="" />
-        <img src={tailwind} title="Tailwind CSS" alt="" />
+        <img src={docker} title="Docker" alt="" />    
         <img src={azure} title="Azure" alt="" />
         <img src={prometheus} title="Prometheus" alt="" />
         <img src={k8s} title="Kubernetes" alt="" />
@@ -82,7 +81,6 @@ function Technologies() {
         <img src={terraform} title="Terraform" alt="" />
         <img src={aws} title="AWS" alt="" />
         <img src={grafana} title="Grafana" alt="" />
-        <img src={docker} title="Docker" alt="" />
       </section>
       <section>
         <h1 className="text-2xl pt-10 text-dark-heading dark:text-light-heading md:text-4xl xl:text-5xl xl:leading-tight font-bold">
