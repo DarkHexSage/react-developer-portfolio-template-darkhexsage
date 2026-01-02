@@ -33,8 +33,8 @@ function Technologies() {
     terraform,
     aws,
     grafana,
-
   } = techStackDetails;
+
   return (
     <main className="container mx-auto max-width pt-10 pb-20 ">
       <section>
@@ -47,15 +47,15 @@ function Technologies() {
         </p>
       </section>
       <section className="grid grid-cols-6 md:grid-cols-5 lg:grid-cols-5 items-center gap-10 pt-6">
-        <img src={eccpt} title="eccpt" alt="eccpt" />
-        <img src={ewptx} title="ewptx" alt="ewptx" />
-        <img src={cka} title="cka" alt="cka" />
-        <img src={ckad} title="ckad" alt="ckad" />
-        <img src={cks} title="cks" alt="cks" />
-        <img src={rhce} title="rhce" alt="rhce" />
-        <img src={ex280} title="ex280" alt="ex280" />
-        <img src={ta003} title="ta003" alt="ta003" />
-        <img src={lfcs} title="lfcs" alt="lfcs" />
+        <img src={eccpt} title="eccpt" alt="eccpt" className="h-20 w-20 object-contain" />
+        <img src={ewptx} title="ewptx" alt="ewptx" className="h-20 w-20 object-contain" />
+        <img src={cka} title="cka" alt="cka" className="h-20 w-20 object-contain" />
+        <img src={ckad} title="ckad" alt="ckad" className="h-20 w-20 object-contain" />
+        <img src={cks} title="cks" alt="cks" className="h-20 w-20 object-contain" />
+        <img src={rhce} title="rhce" alt="rhce" className="h-20 w-20 object-contain" />
+        <img src={ex280} title="ex280" alt="ex280" className="h-20 w-20 object-contain" />
+        <img src={ta003} title="ta003" alt="ta003" className="h-20 w-20 object-contain" />
+        <img src={lfcs} title="lfcs" alt="lfcs" className="h-20 w-20 object-contain" />
       </section>
       <section>
         <h1 className="text-2xl text-dark-heading dark:text-light-heading md:text-4xl xl:text-5xl xl:leading-tight font-bold">
@@ -66,21 +66,21 @@ function Technologies() {
         </p>
       </section>
       <section className="grid grid-cols-6 md:grid-cols-5 lg:grid-cols-5 items-center gap-10 pt-6">
-        <img src={html} title="html" alt="" />
-        <img src={css} title="CSS" alt="" />
-        <img src={js} title="JavaScript" alt="" />
-        <img src={react} title="React" alt="" />
-        <img src={python} title="Python" alt="" />
-        <img src={docker} title="Docker" alt="" />    
-        <img src={azure} title="Azure" alt="" />
-        <img src={prometheus} title="Prometheus" alt="" />
-        <img src={k8s} title="Kubernetes" alt="" />
-        <img src={linux} title="Linux" alt="" />
-        <img src={jenkins} title="Jenkins" alt="" />
-        <img src={ansible} title="Ansible" alt="" />
-        <img src={terraform} title="Terraform" alt="" />
-        <img src={aws} title="AWS" alt="" />
-        <img src={grafana} title="Grafana" alt="" />
+        <img src={html} title="html" alt="" className="h-16 w-16 object-contain" />
+        <img src={css} title="CSS" alt="" className="h-16 w-16 object-contain" />
+        <img src={js} title="JavaScript" alt="" className="h-16 w-16 object-contain" />
+        <img src={react} title="React" alt="" className="h-16 w-16 object-contain" />
+        <img src={python} title="Python" alt="" className="h-16 w-16 object-contain" />
+        <img src={docker} title="Docker" alt="" className="h-16 w-16 object-contain" />    
+        <img src={azure} title="Azure" alt="" className="h-16 w-16 object-contain" />
+        <img src={prometheus} title="Prometheus" alt="" className="h-16 w-16 object-contain" />
+        <img src={k8s} title="Kubernetes" alt="" className="h-16 w-16 object-contain" />
+        <img src={linux} title="Linux" alt="" className="h-16 w-16 object-contain" />
+        <img src={jenkins} title="Jenkins" alt="" className="h-16 w-16 object-contain" />
+        <img src={ansible} title="Ansible" alt="" className="h-16 w-16 object-contain" />
+        <img src={terraform} title="Terraform" alt="" className="h-16 w-16 object-contain" />
+        <img src={aws} title="AWS" alt="" className="h-16 w-16 object-contain" />
+        <img src={grafana} title="Grafana" alt="" className="h-16 w-16 object-contain" />
       </section>
       <section>
         <h1 className="text-2xl pt-10 text-dark-heading dark:text-light-heading md:text-4xl xl:text-5xl xl:leading-tight font-bold">
@@ -88,12 +88,12 @@ function Technologies() {
         </h1>
       </section>
       <section className="grid grid-cols-6 md:grid-cols-5 lg:grid-cols-5 items-center gap-10 pt-6">
-        <img src={vscode} title="Visual Studio Code" alt="" />
-        <img src={git} title="Git" alt="Git" />
-        <img src={github} title="Github" alt="Github" />
-        <img src={kali} title="Kali Linux" alt="kali" />
-        <img src={npm} title="NPM" alt="NPM" />
-        <img src={postman} title="Postman" alt="Postman" />
+        <img src={vscode} title="Visual Studio Code" alt="" className="h-16 w-16 object-contain" />
+        <img src={git} title="Git" alt="Git" className="h-16 w-16 object-contain" />
+        <img src={github} title="Github" alt="Github" className="h-16 w-16 object-contain" />
+        <img src={kali} title="Kali Linux" alt="kali" className="h-16 w-16 object-contain" />
+        <img src={npm} title="NPM" alt="NPM" className="h-16 w-16 object-contain" />
+        <img src={postman} title="Postman" alt="Postman" className="h-16 w-16 object-contain" />
       </section>
     </main>
   );
