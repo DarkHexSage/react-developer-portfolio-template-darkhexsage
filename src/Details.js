@@ -19,6 +19,14 @@ import git from "./assets/techstack/git.png";
 import npm from "./assets/techstack/npm.png";
 import postman from "./assets/techstack/postman.png";
 import figma from "./assets/techstack/figma.png";
+import k8s from "./assets/techstack/k8s.png";
+import linux from "./assets/techstack/linux.png";
+import jenkins from "./assets/techstack/jenkins.png";
+import docker from "./assets/techstack/docker.png";
+import ansible from "./assets/techstack/ansible.png";
+import terraform from "./assets/techstack/terraform.png";
+import aws from "./assets/techstack/aws.png";
+import grafanapack from "./assets/techstack/grafanapack.png";
 // Cert stack images
 import cka from "./assets/certs/cka.png";
 import ckad from "./assets/certs/ckad.png";
@@ -135,6 +143,14 @@ export const techStackDetails = {
   ta003: ta003,
   ex280: ex280,
   lfcs: lfcs
+  ,k8s: k8s,
+  linux: linux,
+  jenkins: jenkins,
+  docker: docker,
+  ansible: ansible,
+  terraform: terraform,
+  aws: aws,
+  grafanapack: grafanapack,
 };
 
 // Enter your Project Details here

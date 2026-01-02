@@ -25,7 +25,16 @@ function Technologies() {
     rhce,
     ta003,
     ex280,
-    lfcs
+    lfcs,
+    k8s,
+    linux,
+    jenkins,
+    docker,
+    ansible,
+    terraform,
+    aws,
+    grafanapack,
+
   } = techStackDetails;
   return (
     <main className="container mx-auto max-width pt-10 pb-20 ">
@@ -66,6 +75,14 @@ function Technologies() {
         <img src={tailwind} title="Tailwind CSS" alt="" />
         <img src={bootstrap} title="Bootstrap" alt="" />
         <img src={sass} title="SASS" alt="" />
+        <img src={k8s} title="Kubernetes" alt="" />
+        <img src={linux} title="Linux" alt="" />
+        <img src={jenkins} title="Jenkins" alt="" />
+        <img src={docker} title="Docker" alt="" />
+        <img src={ansible} title="Ansible" alt="" />
+        <img src={terraform} title="Terraform" alt="" />
+        <img src={aws} title="AWS" alt="" />
+        <img src={grafanapack} title="Grafana" alt="" />
       </section>
       <section>
         <h1 className="text-2xl pt-10 text-dark-heading dark:text-light-heading md:text-4xl xl:text-5xl xl:leading-tight font-bold">
