@@ -53,7 +53,7 @@ export const logos = {
 // Enter your Personal Details here
 export const personalDetails = {
   name: "Adriano Aguilar",
-  tagline: "Building secure, scalable applications and infrastructure.",
+  tagline: "Love to code secure, scalable applications & infrastructure.",
   img: profile,
   about: `Purple Team Security Engineer with 14+ certifications. Specialized in Kubernetes security, DevOps, and full-stack development. Expert in containerization (Docker, Kubernetes), CI/CD pipeline security, penetration testing, and infrastructure hardening. Proficient in Python, React, Bash, and tools like Jenkins, ArgoCD, and Prometheus. Committed to building secure, production-grade systems.`,
 };
