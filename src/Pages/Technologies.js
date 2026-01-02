@@ -7,16 +7,16 @@ function Technologies() {
     css,
     js,
     react,
-    redux,
+    python,
     tailwind,
-    bootstrap,
-    sass,
+    azure,
+    prometheus,
     vscode,
     git,
     github,
     npm,
     postman,
-    figma,
+    kali,
     cka,
     ckad,
     cks,
@@ -33,7 +33,7 @@ function Technologies() {
     ansible,
     terraform,
     aws,
-    grafanapack,
+    grafana,
 
   } = techStackDetails;
   return (
@@ -71,10 +71,10 @@ function Technologies() {
         <img src={css} title="CSS" alt="" />
         <img src={js} title="JavaScript" alt="" />
         <img src={react} title="React" alt="" />
-        <img src={redux} title="Redux" alt="" />
+        <img src={python} title="Python" alt="" />
         <img src={tailwind} title="Tailwind CSS" alt="" />
-        <img src={bootstrap} title="Bootstrap" alt="" />
-        <img src={sass} title="SASS" alt="" />
+        <img src={azure} title="Azure" alt="" />
+        <img src={prometheus} title="Prometheus" alt="" />
         <img src={k8s} title="Kubernetes" alt="" />
         <img src={linux} title="Linux" alt="" />
         <img src={jenkins} title="Jenkins" alt="" />
@@ -82,7 +82,7 @@ function Technologies() {
         <img src={ansible} title="Ansible" alt="" />
         <img src={terraform} title="Terraform" alt="" />
         <img src={aws} title="AWS" alt="" />
-        <img src={grafanapack} title="Grafana" alt="" />
+        <img src={grafana} title="Grafana" alt="" />
       </section>
       <section>
         <h1 className="text-2xl pt-10 text-dark-heading dark:text-light-heading md:text-4xl xl:text-5xl xl:leading-tight font-bold">
@@ -93,7 +93,7 @@ function Technologies() {
         <img src={vscode} title="Visual Studio Code" alt="" />
         <img src={git} title="Git" alt="Git" />
         <img src={github} title="Github" alt="Github" />
-        <img src={figma} title="Figma" alt="Figma" />
+        <img src={kali} title="Kali Linux" alt="kali" />
         <img src={npm} title="NPM" alt="NPM" />
         <img src={postman} title="Postman" alt="Postman" />
       </section>

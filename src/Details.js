@@ -7,18 +7,18 @@ import profile from "./assets/profile.jpg";
 // Tech stack images
 import html from "./assets/techstack/html.png";
 import css from "./assets/techstack/css.png";
-import sass from "./assets/techstack/sass.png";
+import azure from "./assets/techstack/azure.png";
 import js from "./assets/techstack/js.png";
 import react from "./assets/techstack/react.png";
-import redux from "./assets/techstack/redux.png";
+import python from "./assets/techstack/python.png";
 import tailwind from "./assets/techstack/tailwind.png";
-import bootstrap from "./assets/techstack/bootstrap.png";
+import kali from "./assets/techstack/kali.png";
 import vscode from "./assets/techstack/vscode.png";
 import github from "./assets/techstack/github.png";
 import git from "./assets/techstack/git.png";
 import npm from "./assets/techstack/npm.png";
 import postman from "./assets/techstack/postman.png";
-import figma from "./assets/techstack/figma.png";
+import prometheus from "./assets/techstack/prometheus.png";
 import k8s from "./assets/techstack/k8s.png";
 import linux from "./assets/techstack/linux.png";
 import jenkins from "./assets/techstack/jenkins.png";
@@ -26,7 +26,7 @@ import docker from "./assets/techstack/docker.png";
 import ansible from "./assets/techstack/ansible.png";
 import terraform from "./assets/techstack/terraform.png";
 import aws from "./assets/techstack/aws.png";
-import grafanapack from "./assets/techstack/grafanapack.png";
+import grafana from "./assets/techstack/grafana.png";
 // Cert stack images
 import cka from "./assets/certs/cka.png";
 import ckad from "./assets/certs/ckad.png";
@@ -150,7 +150,11 @@ export const techStackDetails = {
   ansible: ansible,
   terraform: terraform,
   aws: aws,
-  grafanapack: grafanapack,
+  grafana: grafana,
+  prometheus: prometheus,
+  kali: kali,
+  python: python,
+  azure: azure,
 };
 
 // Enter your Project Details here
