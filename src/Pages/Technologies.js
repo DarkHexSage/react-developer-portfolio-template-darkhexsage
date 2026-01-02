@@ -83,14 +83,13 @@ function Technologies() {
         <img src={terraform} title="Terraform" alt="" />
         <img src={aws} title="AWS" alt="" />
         <img src={grafana} title="Grafana" alt="" />
-        <img src={python} title="Python" alt="" />
       </section>
       <section>
         <h1 className="text-2xl pt-10 text-dark-heading dark:text-light-heading md:text-4xl xl:text-5xl xl:leading-tight font-bold">
           Tools
         </h1>
       </section>
-      <section className="grid grid-cols-4 md:grid-cols-5 lg:grid-cols-6 items-center gap-10 pt-6">
+      <section className="grid grid-cols-4 md:grid-cols-5 lg:grid-cols-5 items-center gap-10 pt-6">
         <img src={vscode} title="Visual Studio Code" alt="" />
         <img src={git} title="Git" alt="Git" />
         <img src={github} title="Github" alt="Github" />
