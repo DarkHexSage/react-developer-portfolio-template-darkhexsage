@@ -67,7 +67,7 @@ export const socialMediaUrl = {
 // Enter your Work Experience here
 export const workDetails = [
   {
-    Position: "Purple Team Security Engineer",
+    Position: "Security Engineer",
     Company: `Acquia`,
     Location: "Costa Rica",
     Type: "Full Time",
