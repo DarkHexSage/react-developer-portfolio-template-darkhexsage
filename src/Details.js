@@ -62,7 +62,7 @@ export const personalDetails = {
 export const socialMediaUrl = {
   linkdein: "https://www.linkedin.com/in/adriano-aguilar-245008101/",
   github: "https://github.com/DarkHexSage",
-  twitter: "https://twitter.com/",
+  twitter: "https://darkhexsage.8bit.ca/",
 
 };
 
