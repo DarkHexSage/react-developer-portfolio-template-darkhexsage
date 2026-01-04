@@ -164,14 +164,6 @@ export const projectDetails = [
     githubLink: "https://github.com/DarkHexSage/api_tester_platform",
   },
   {
-    title: "Cryptocurrency Monitor",
-    image: projectImage3,
-    description: `Live crypto price dashboard with real-time BTC, ETH, SOL tracking. Portfolio analysis and market alerts with responsive HTML frontend.`,
-    techstack: "HTML, JavaScript, Real-time Data, REST APIs",
-    previewLink: "https://adragportfolio.info.gf/crypto-monitor",
-    githubLink: "https://github.com/DarkHexSage/crypto_monitor",
-  },
-  {
     title: "Website Security Scanner",
     image: projectImage4,
     description: `Web application vulnerability scanner performing OWASP Top 10 assessments. SQL injection, XSS testing, CSRF validation, and security header analysis.`,
@@ -194,6 +186,14 @@ export const projectDetails = [
     techstack: "React, Python FastAPI, REST API, Security",
     previewLink: "https://adragportfolio.info.gf/password-checker",
     githubLink: "https://github.com/DarkHexSage/password-checker",
+  },
+  {
+    title: "Cryptocurrency Monitor",
+    image: projectImage3,
+    description: `Live crypto price dashboard with real-time BTC, ETH, SOL tracking. Portfolio analysis and market alerts with responsive HTML frontend.`,
+    techstack: "HTML, JavaScript, Real-time Data, REST APIs",
+    previewLink: "https://adragportfolio.info.gf/crypt-monitor",
+    githubLink: "https://github.com/DarkHexSage/crypto-dashboard-react",
   },
   {
     title: "Trading Card Database",
